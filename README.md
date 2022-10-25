@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá!👋 Me chamo João Victor! ![WellHelloGIF](https://user-images.githubusercontent.com/62736535/197848003-f423e121-33a3-4aaf-ae48-8dd4121a5294.gif)
 
-<!--
-**Joaovcarvalho23/Joaovcarvalho23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente sou estudante do curso de Ciência da Computação na UFRPE
+- 🌱 Estou aprendendo JavaScript e React.js
+- 👯 Em busca de mais conhecimento
+- 📫 Contato via email: joaovictorcordeiro00@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/Joaovcarvalho23">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaovcarvalho23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovcarvalho23&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+<div>
+  <a href="https://www.instagram.com/joaovcarvalho_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+<a href = "mailto:joaovictorcordeiro00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> 
+</div>
