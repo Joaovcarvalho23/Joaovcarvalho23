@@ -4,7 +4,7 @@
 - 🔭 Atualmente sou estudante do curso de Ciência da Computação na UFRPE
 - 🌱 Estou aprendendo JavaScript e React.js
 - 👯 Em busca de mais conhecimento
-- 📫 Contato via email: joaovictorcordeiro00@gmail.com
+- 📫 Contato via email: joao.vcgcordeiro@ufrpe.br
 
 <div align="center">
   <a href="https://github.com/Joaovcarvalho23">
@@ -15,5 +15,5 @@
 <div>
   <a href="https://www.instagram.com/joaovcarvalho_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-<a href = "mailto:joaovictorcordeiro00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> 
+<a href = "mailto:joao.vcgcordeiro@ufrpe.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> 
 </div>
