@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente sou estudante do curso de Ciência da Computação na UFRPE
 - 🌱 Estou aprendendo JavaScript e React.js
-- 👯 Em busca de mais conhecimento
+- 👯 Em busca de mais conhecimento para me tornar um grande profissional
 - 📫 Contato via email: joao.vcgcordeiro@ufrpe.br
 
 <div align="center">
