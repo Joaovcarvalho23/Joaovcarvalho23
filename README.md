@@ -2,7 +2,7 @@
  ![WellHelloGIF](https://user-images.githubusercontent.com/62736535/197848003-f423e121-33a3-4aaf-ae48-8dd4121a5294.gif)
 
 - 🔭 Atualmente sou estudante do curso de Ciência da Computação na UFRPE
-- 🌱 Estou aprendendo JavaScript e React.js
+- 🌱 Estagiário QCAD no DUI - Departamento de Informática do DETRAN
 - 👯 Em busca de mais conhecimento para me tornar um grande profissional
 - 📫 Contato via email: joao.vcgcordeiro@ufrpe.br
 
