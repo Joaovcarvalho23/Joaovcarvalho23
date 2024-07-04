@@ -3,7 +3,6 @@
 
 - 🔭 Atualmente sou estudante do curso de Ciência da Computação na UFRPE
 - 🌱 Estagiário QCAD no DUI - Departamento de Informática do DETRAN
-- 👯 Em busca de mais conhecimento para me tornar um grande profissional
 - 📫 Contato via email: joao.vcgcordeiro@ufrpe.br
 
 <div align="center">
