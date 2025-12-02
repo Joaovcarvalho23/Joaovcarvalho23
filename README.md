@@ -3,7 +3,7 @@
 
 - 🤓 3 anos de experiência em Desenvolvimento
 - 🔭 Atualmente sou estudante do curso de Ciência da Computação na UFRPE
-- 🌱 Estagiário QCAD no DUI - Departamento de Informática do DETRAN
+- 🌱 Dev Full Stack - Blue Technology
 - 📫 Contato via email: joao.vcgcordeiro@ufrpe.br
 
 <div align="center">
